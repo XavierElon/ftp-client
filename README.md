@@ -1,7 +1,6 @@
 Name: Xavier Hollingsworth
 Date: 08/11/2019
-Assignment: Project 2
-Course: CS 372 Introduction to Networks
+
 
 # Important notes before starting
 Make sure that the client and host programs are running on different hosts. Also make sure that both of the programs are located in different directories.
